@@ -31,6 +31,8 @@ The following KPIs are tracked to measure the coffee shop's performance:
 - **Average Bill per Person**: The average revenue generated per customer.
 - **Average Order per Person**: The average number of items ordered per customer.
 
+## KPIs (Formulas)
+![KPI_Formulas](https://github.com/user-attachments/assets/a33120e5-5cd4-490a-b08f-a589eb5ba0ea)
 ---
 
 ## Dashboard Features & Visualizations
